@@ -10,4 +10,4 @@ I'm putting this into a repository because
 1. I'm not a font and/or typeface designer
 2. It could use improvements
 
-And it is with these to points that I and maybe other people might want to add to it? Or not.  You do you. Either way, here's the repo, heres the font, read the license, have a good one ♥
+And it is with these two points that I and maybe other people might want to add to it? Or not.  You do you. Either way, here's the repo, heres the font, read the license, have a good one ♥
